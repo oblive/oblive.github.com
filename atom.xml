@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://oblive.github.io/atom.xml" rel="self"/>
+  <link href="http://oblive.github.io/"/>
+  <updated>2016-09-16T06:59:09+08:00</updated>
+  <id>http://oblive.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://oblive.github.io/blog/2016/09/15/title/"/>
+    <updated>2016-09-15T23:22:26+08:00</updated>
+    <id>http://oblive.github.io/blog/2016/09/15/title</id>
+    <content type="html"><![CDATA[<h1>title</h1>
+
+<ul>
+<li>I am title</li>
+<li>I am aaaa.</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
