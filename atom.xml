@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://oblive.github.io/atom.xml" rel="self"/>
   <link href="http://oblive.github.io/"/>
-  <updated>2016-09-19T14:16:14+08:00</updated>
+  <updated>2016-09-19T14:38:09+08:00</updated>
   <id>http://oblive.github.io/</id>
   <author>
     <name><![CDATA[黄晨]]></name>
@@ -14,7 +14,7 @@
 
   
   <entry>
-    <title type="html"><![CDATA[jj1]]></title>
+    <title type="html"><![CDATA[《精进： 如何成为一个厉害的人》摘抄与感悟 ]]></title>
     <link href="http://oblive.github.io/blog/2016/09/19/jj1/"/>
     <updated>2016-09-19T11:20:31+08:00</updated>
     <id>http://oblive.github.io/blog/2016/09/19/jj1</id>
@@ -30,148 +30,156 @@
 
 <h3>时间方式调整</h3>
 
+<h4>过去不好 的事</h4>
+
 <table>
 <thead>
 <tr>
-<th> 过去发生的不好的事 </th>
-<th> 积极信息                                     </th>
-<th> 对未来产生好的影响                                </th>
+<th style="text-align:left;"> 过去发生的不好的事 </th>
+<th style="text-align:left;"> 积极信息                                     </th>
+<th style="text-align:left;"> 对未来产生好的影响                                </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td> 考试失败      </td>
-<td> 高考进了二本；公务员考试改变了人生发展道路，多在企业工作了一些时间，为后面考试通过积累了经验 </td>
-<td> 增加了知识，学了应用心理学专业，训练了技能，如office软件，与人合作沟通的基本能力 </td>
+<td style="text-align:left;"> 考试失败      </td>
+<td style="text-align:left;"> 高考进了二本；公务员考试改变了人生发展道路，多在企业工作了一些时间，为后面考试通过积累了经验 </td>
+<td style="text-align:left;"> 增加了知识，学了应用心理学专业，训练了技能，如office软件，与人合作沟通的基本能力 </td>
 </tr>
 <tr>
-<td> 吵架        </td>
-<td> 使我规避吵架，希望用和平的方式解决问题                      </td>
-<td> 避免争执的倾向                                  </td>
+<td style="text-align:left;"> 吵架        </td>
+<td style="text-align:left;"> 使我规避吵架，希望用和平的方式解决问题                      </td>
+<td style="text-align:left;"> 避免争执的倾向                                  </td>
 </tr>
 <tr>
-<td> 被训斥、惩罚    </td>
-<td> 行为的制止，静下心做正经事                            </td>
-<td> 没有走向歧途                                   </td>
+<td style="text-align:left;"> 被训斥、惩罚    </td>
+<td style="text-align:left;"> 行为的制止，静下心做正经事                            </td>
+<td style="text-align:left;"> 没有走向歧途                                   </td>
 </tr>
 <tr>
-<td> 参加同学聚会的尴尬 </td>
-<td> 对自己有更深的认识                                </td>
-<td> 无                                        </td>
+<td style="text-align:left;"> 参加同学聚会的尴尬 </td>
+<td style="text-align:left;"> 对自己有更深的认识                                </td>
+<td style="text-align:left;"> 无                                        </td>
 </tr>
 <tr>
-<td> 对新环境的不适应  </td>
-<td> 之后还是适应了，至少不会太紧张、害怕                       </td>
-<td> 再困难的环境还是能够适应的                            </td>
+<td style="text-align:left;"> 对新环境的不适应  </td>
+<td style="text-align:left;"> 之后还是适应了，至少不会太紧张、害怕                       </td>
+<td style="text-align:left;"> 再困难的环境还是能够适应的                            </td>
 </tr>
 <tr>
-<td> 无所事事的抑郁   </td>
-<td> 看了些科技，娱乐新闻视频，学了编程，多了一些思考                 </td>
-<td> 避免陷入搜索，无目的浏览的倾向，节约时间                     </td>
+<td style="text-align:left;"> 无所事事的抑郁   </td>
+<td style="text-align:left;"> 看了些科技，娱乐新闻视频，学了编程，多了一些思考                 </td>
+<td style="text-align:left;"> 避免陷入搜索，无目的浏览的倾向，节约时间                     </td>
 </tr>
 <tr>
-<td> 被拒，被加入黑名单 </td>
-<td> 认识到不要不懂装懂，不要太早下定决心，本来就不符合意愿的事不要太勉强       </td>
-<td> 虚怀若谷，少说多做                                </td>
+<td style="text-align:left;"> 被拒，被加入黑名单 </td>
+<td style="text-align:left;"> 认识到不要不懂装懂，不要太早下定决心，本来就不符合意愿的事不要太勉强       </td>
+<td style="text-align:left;"> 虚怀若谷，少说多做                                </td>
 </tr>
 <tr>
-<td> 游戏输掉      </td>
-<td> 玩游戏的表现也是合作能力的体现，不玩了                      </td>
-<td> 空出更多的时间                                  </td>
+<td style="text-align:left;"> 游戏输掉      </td>
+<td style="text-align:left;"> 玩游戏的表现也是合作能力的体现，不玩了                      </td>
+<td style="text-align:left;"> 空出更多的时间                                  </td>
 </tr>
 </tbody>
 </table>
 
 
+<h4>现在不好的事</h4>
+
 <table>
 <thead>
 <tr>
-<th> 当下对现在有好处对未来无好处的事 </th>
-<th> 如何减少频率              </th>
+<th style="text-align:left;"> 当下对现在有好处对未来无好处的事 </th>
+<th style="text-align:left;"> 如何减少频率              </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td> 玩一天游戏            </td>
-<td> 删，屏蔽网站 网易           </td>
+<td style="text-align:left;"> 玩一天游戏            </td>
+<td style="text-align:left;"> 删，屏蔽网站 网易           </td>
 </tr>
 <tr>
-<td> 看远离实际的视频         </td>
-<td> 屏蔽网站 bilibili       </td>
+<td style="text-align:left;"> 看远离实际的视频         </td>
+<td style="text-align:left;"> 屏蔽网站 bilibili       </td>
 </tr>
 <tr>
-<td> 晚睡，想事情           </td>
-<td> 右手带手环，用右脑思考，关注自己的呼吸 </td>
+<td style="text-align:left;"> 晚睡，想事情           </td>
+<td style="text-align:left;"> 右手带手环，用右脑思考，关注自己的呼吸 </td>
 </tr>
 <tr>
-<td> 手机购物买无用的东西       </td>
-<td> 退出账号，不浏览            </td>
+<td style="text-align:left;"> 手机购物买无用的东西       </td>
+<td style="text-align:left;"> 退出账号，不浏览            </td>
 </tr>
 </tbody>
 </table>
 
 
+<h4>有成就感的事</h4>
+
 <table>
 <thead>
 <tr>
-<th> 最有成就感的事        </th>
-<th> 对自己的影响      </th>
-<th> 对他人的影响     </th>
+<th style="text-align:left;"> 最有成就感的事        </th>
+<th style="text-align:left;"> 对自己的影响      </th>
+<th style="text-align:left;"> 对他人的影响     </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td> 高中用和别人不同的方法解题  </td>
-<td> 理性思维的倾向     </td>
-<td> 无          </td>
+<td style="text-align:left;"> 高中用和别人不同的方法解题  </td>
+<td style="text-align:left;"> 理性思维的倾向     </td>
+<td style="text-align:left;"> 无          </td>
 </tr>
 <tr>
-<td> 掌握Excel解答别人的疑惑 </td>
-<td> 觉得自己会点Excel </td>
-<td> 多一点Excel知识 </td>
+<td style="text-align:left;"> 掌握Excel解答别人的疑惑 </td>
+<td style="text-align:left;"> 觉得自己会点Excel </td>
+<td style="text-align:left;"> 多一点Excel知识 </td>
 </tr>
 <tr>
-<td> 编程运用到工作中       </td>
-<td> 觉得编程有一点用    </td>
-<td>            </td>
+<td style="text-align:left;"> 编程运用到工作中       </td>
+<td style="text-align:left;"> 觉得编程有一点用    </td>
+<td style="text-align:left;">            </td>
 </tr>
 </tbody>
 </table>
 
 
+<h4>未来的目标</h4>
+
 <table>
 <thead>
 <tr>
-<th> 未来五年打算实现的目标     </th>
-<th> 如何实现     </th>
+<th style="text-align:left;"> 未来五年打算实现的目标     </th>
+<th style="text-align:left;"> 如何实现     </th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td> 看懂英文资料和看中文的感觉一样 </td>
-<td> 每天学英语，扇贝 </td>
+<td style="text-align:left;"> 看懂英文资料和看中文的感觉一样 </td>
+<td style="text-align:left;"> 每天学英语，扇贝 </td>
 </tr>
 <tr>
-<td> 精通Java和Clojure  </td>
-<td> 每天学      </td>
+<td style="text-align:left;"> 精通Java和Clojure  </td>
+<td style="text-align:left;"> 每天学      </td>
 </tr>
 <tr>
-<td> 读更多理论书籍（心理学、哲学） </td>
-<td> kindle读书 </td>
+<td style="text-align:left;"> 读更多理论书籍（心理学、哲学） </td>
+<td style="text-align:left;"> kindle读书 </td>
 </tr>
 <tr>
-<td> 写文章             </td>
-<td> 多写       </td>
+<td style="text-align:left;"> 写文章             </td>
+<td style="text-align:left;"> 多写       </td>
 </tr>
 <tr>
-<td> 能跑马拉松           </td>
-<td> 天天跑      </td>
+<td style="text-align:left;"> 能跑马拉松           </td>
+<td style="text-align:left;"> 天天跑      </td>
 </tr>
 </tbody>
 </table>
 
 
-<p>工作外每周做的放松的事：</p>
+<h4>工作外每周做的放松的事：</h4>
 
 <ul>
 <li>瑜伽</li>
@@ -180,7 +188,7 @@
 </ul>
 
 
-<p>长期保持的爱好：</p>
+<h4>长期保持的爱好：</h4>
 
 <ul>
 <li>编程</li>
